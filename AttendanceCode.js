@@ -41,7 +41,7 @@ function randomTime(startHour, endHour) {
 function generateAttendanceLogs() {
   const logs = [];
   const startDate = new Date("2024-02-11");
-  const endDate = new Date("2024-02-20");
+  const endDate = new Date("2024-02-29");
 
   usernames.forEach((username) => {
     for (
