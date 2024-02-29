@@ -1,0 +1,842 @@
+[
+    {
+        "student_id": 14,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 14,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 97
+    },
+    {
+        "student_id": 14,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 52
+    },
+    {
+        "student_id": 14,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 77
+    },
+    {
+        "student_id": 14,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 9
+    },
+    {
+        "student_id": 78,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 0
+    },
+    {
+        "student_id": 78,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 62
+    },
+    {
+        "student_id": 78,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 78,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 51
+    },
+    {
+        "student_id": 78,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 87
+    },
+    {
+        "student_id": 79,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 4
+    },
+    {
+        "student_id": 79,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 64
+    },
+    {
+        "student_id": 79,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 92
+    },
+    {
+        "student_id": 79,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 16
+    },
+    {
+        "student_id": 79,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 63
+    },
+    {
+        "student_id": 80,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 74
+    },
+    {
+        "student_id": 80,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 29
+    },
+    {
+        "student_id": 80,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 20
+    },
+    {
+        "student_id": 80,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 6
+    },
+    {
+        "student_id": 80,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 27
+    },
+    {
+        "student_id": 81,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 38
+    },
+    {
+        "student_id": 81,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 47
+    },
+    {
+        "student_id": 81,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 23
+    },
+    {
+        "student_id": 81,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 76
+    },
+    {
+        "student_id": 81,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 63
+    },
+    {
+        "student_id": 82,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 10
+    },
+    {
+        "student_id": 82,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 47
+    },
+    {
+        "student_id": 82,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 58
+    },
+    {
+        "student_id": 82,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 9
+    },
+    {
+        "student_id": 82,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 32
+    },
+    {
+        "student_id": 83,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 30
+    },
+    {
+        "student_id": 83,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 31
+    },
+    {
+        "student_id": 83,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 37
+    },
+    {
+        "student_id": 83,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 41
+    },
+    {
+        "student_id": 83,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 19
+    },
+    {
+        "student_id": 84,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 96
+    },
+    {
+        "student_id": 84,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 90
+    },
+    {
+        "student_id": 84,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 29
+    },
+    {
+        "student_id": 84,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 84,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 7
+    },
+    {
+        "student_id": 85,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 15
+    },
+    {
+        "student_id": 85,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 71
+    },
+    {
+        "student_id": 85,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 39
+    },
+    {
+        "student_id": 85,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 64
+    },
+    {
+        "student_id": 85,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 86,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 91
+    },
+    {
+        "student_id": 86,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 62
+    },
+    {
+        "student_id": 86,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 58
+    },
+    {
+        "student_id": 86,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 32
+    },
+    {
+        "student_id": 86,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 87,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 23
+    },
+    {
+        "student_id": 87,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 87,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 1
+    },
+    {
+        "student_id": 87,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 64
+    },
+    {
+        "student_id": 87,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 37
+    },
+    {
+        "student_id": 178,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 27
+    },
+    {
+        "student_id": 178,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 5
+    },
+    {
+        "student_id": 178,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 21
+    },
+    {
+        "student_id": 178,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 18
+    },
+    {
+        "student_id": 178,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 78
+    },
+    {
+        "student_id": 179,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 98
+    },
+    {
+        "student_id": 179,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 1
+    },
+    {
+        "student_id": 179,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 6
+    },
+    {
+        "student_id": 179,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 57
+    },
+    {
+        "student_id": 179,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 65
+    },
+    {
+        "student_id": 180,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 83
+    },
+    {
+        "student_id": 180,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 73
+    },
+    {
+        "student_id": 180,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 9
+    },
+    {
+        "student_id": 180,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 9
+    },
+    {
+        "student_id": 180,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 19
+    },
+    {
+        "student_id": 181,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 99
+    },
+    {
+        "student_id": 181,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 47
+    },
+    {
+        "student_id": 181,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 59
+    },
+    {
+        "student_id": 181,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 11
+    },
+    {
+        "student_id": 181,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 93
+    },
+    {
+        "student_id": 182,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 92
+    },
+    {
+        "student_id": 182,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 27
+    },
+    {
+        "student_id": 182,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 54
+    },
+    {
+        "student_id": 182,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 97
+    },
+    {
+        "student_id": 182,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 22
+    },
+    {
+        "student_id": 183,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 97
+    },
+    {
+        "student_id": 183,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 75
+    },
+    {
+        "student_id": 183,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 26
+    },
+    {
+        "student_id": 183,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 64
+    },
+    {
+        "student_id": 183,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 4
+    },
+    {
+        "student_id": 184,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 55
+    },
+    {
+        "student_id": 184,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 68
+    },
+    {
+        "student_id": 184,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 81
+    },
+    {
+        "student_id": 184,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 29
+    },
+    {
+        "student_id": 184,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 3
+    },
+    {
+        "student_id": 185,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 30
+    },
+    {
+        "student_id": 185,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 27
+    },
+    {
+        "student_id": 185,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 57
+    },
+    {
+        "student_id": 185,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 57
+    },
+    {
+        "student_id": 185,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 29
+    },
+    {
+        "student_id": 186,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 82
+    },
+    {
+        "student_id": 186,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 22
+    },
+    {
+        "student_id": 186,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 3
+    },
+    {
+        "student_id": 186,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 39
+    },
+    {
+        "student_id": 186,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 29
+    },
+    {
+        "student_id": 187,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 65
+    },
+    {
+        "student_id": 187,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 48
+    },
+    {
+        "student_id": 187,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 92
+    },
+    {
+        "student_id": 187,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 16
+    },
+    {
+        "student_id": 187,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 96
+    },
+    {
+        "student_id": 228,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 27
+    },
+    {
+        "student_id": 228,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 13
+    },
+    {
+        "student_id": 228,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 1
+    },
+    {
+        "student_id": 228,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 7
+    },
+    {
+        "student_id": 228,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 91
+    },
+    {
+        "student_id": 238,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 4
+    },
+    {
+        "student_id": 238,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 76
+    },
+    {
+        "student_id": 238,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 92
+    },
+    {
+        "student_id": 238,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 22
+    },
+    {
+        "student_id": 238,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 67
+    },
+    {
+        "student_id": 243,
+        "subjectName": "English",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 0
+    },
+    {
+        "student_id": 243,
+        "subjectName": "Nepali",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 13
+    },
+    {
+        "student_id": 243,
+        "subjectName": "Maths",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 35
+    },
+    {
+        "student_id": 243,
+        "subjectName": "Science",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 92
+    },
+    {
+        "student_id": 243,
+        "subjectName": "Computer",
+        "classId": 1,
+        "academicYear": 2017,
+        "marksObtained": 56
+    }
+]
