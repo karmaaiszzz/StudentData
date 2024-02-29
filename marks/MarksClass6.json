@@ -1,0 +1,1129 @@
+[
+    {
+        "student_id": 13,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 92
+    },
+    {
+        "student_id": 13,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 79
+    },
+    {
+        "student_id": 13,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 42
+    },
+    {
+        "student_id": 13,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 67
+    },
+    {
+        "student_id": 13,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 75
+    },
+    {
+        "student_id": 13,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 47
+    },
+    {
+        "student_id": 13,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 44
+    },
+    {
+        "student_id": 68,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 77
+    },
+    {
+        "student_id": 68,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 68,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 66
+    },
+    {
+        "student_id": 68,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 89
+    },
+    {
+        "student_id": 68,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 68,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 45
+    },
+    {
+        "student_id": 68,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 42
+    },
+    {
+        "student_id": 69,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 76
+    },
+    {
+        "student_id": 69,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 96
+    },
+    {
+        "student_id": 69,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 79
+    },
+    {
+        "student_id": 69,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 69,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 68
+    },
+    {
+        "student_id": 69,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 72
+    },
+    {
+        "student_id": 69,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 36
+    },
+    {
+        "student_id": 70,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 66
+    },
+    {
+        "student_id": 70,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 87
+    },
+    {
+        "student_id": 70,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 91
+    },
+    {
+        "student_id": 70,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 47
+    },
+    {
+        "student_id": 70,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 46
+    },
+    {
+        "student_id": 70,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 76
+    },
+    {
+        "student_id": 70,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 35
+    },
+    {
+        "student_id": 71,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 78
+    },
+    {
+        "student_id": 71,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 59
+    },
+    {
+        "student_id": 71,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 87
+    },
+    {
+        "student_id": 71,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 87
+    },
+    {
+        "student_id": 71,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 50
+    },
+    {
+        "student_id": 71,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 83
+    },
+    {
+        "student_id": 71,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 28
+    },
+    {
+        "student_id": 72,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 65
+    },
+    {
+        "student_id": 72,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 63
+    },
+    {
+        "student_id": 72,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 46
+    },
+    {
+        "student_id": 72,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 44
+    },
+    {
+        "student_id": 72,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 58
+    },
+    {
+        "student_id": 72,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 58
+    },
+    {
+        "student_id": 72,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 48
+    },
+    {
+        "student_id": 73,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 75
+    },
+    {
+        "student_id": 73,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 58
+    },
+    {
+        "student_id": 73,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 57
+    },
+    {
+        "student_id": 73,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 62
+    },
+    {
+        "student_id": 73,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 70
+    },
+    {
+        "student_id": 73,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 78
+    },
+    {
+        "student_id": 73,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 41
+    },
+    {
+        "student_id": 74,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 57
+    },
+    {
+        "student_id": 74,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 43
+    },
+    {
+        "student_id": 74,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 83
+    },
+    {
+        "student_id": 74,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 73
+    },
+    {
+        "student_id": 74,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 73
+    },
+    {
+        "student_id": 74,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 43
+    },
+    {
+        "student_id": 74,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 43
+    },
+    {
+        "student_id": 75,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 90
+    },
+    {
+        "student_id": 75,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 55
+    },
+    {
+        "student_id": 75,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 80
+    },
+    {
+        "student_id": 75,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 74
+    },
+    {
+        "student_id": 75,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 94
+    },
+    {
+        "student_id": 75,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 53
+    },
+    {
+        "student_id": 75,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 23
+    },
+    {
+        "student_id": 76,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 53
+    },
+    {
+        "student_id": 76,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 63
+    },
+    {
+        "student_id": 76,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 53
+    },
+    {
+        "student_id": 76,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 78
+    },
+    {
+        "student_id": 76,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 78
+    },
+    {
+        "student_id": 76,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 40
+    },
+    {
+        "student_id": 76,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 40
+    },
+    {
+        "student_id": 77,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 87
+    },
+    {
+        "student_id": 77,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 77,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 57
+    },
+    {
+        "student_id": 77,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 97
+    },
+    {
+        "student_id": 77,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 95
+    },
+    {
+        "student_id": 77,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 73
+    },
+    {
+        "student_id": 77,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 38
+    },
+    {
+        "student_id": 168,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 69
+    },
+    {
+        "student_id": 168,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 86
+    },
+    {
+        "student_id": 168,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 71
+    },
+    {
+        "student_id": 168,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 79
+    },
+    {
+        "student_id": 168,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 84
+    },
+    {
+        "student_id": 168,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 93
+    },
+    {
+        "student_id": 168,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 25
+    },
+    {
+        "student_id": 169,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 54
+    },
+    {
+        "student_id": 169,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 97
+    },
+    {
+        "student_id": 169,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 56
+    },
+    {
+        "student_id": 169,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 98
+    },
+    {
+        "student_id": 169,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 76
+    },
+    {
+        "student_id": 169,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 59
+    },
+    {
+        "student_id": 169,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 40
+    },
+    {
+        "student_id": 170,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 46
+    },
+    {
+        "student_id": 170,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 94
+    },
+    {
+        "student_id": 170,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 50
+    },
+    {
+        "student_id": 170,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 48
+    },
+    {
+        "student_id": 170,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 54
+    },
+    {
+        "student_id": 170,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 50
+    },
+    {
+        "student_id": 170,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 25
+    },
+    {
+        "student_id": 171,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 87
+    },
+    {
+        "student_id": 171,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 75
+    },
+    {
+        "student_id": 171,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 60
+    },
+    {
+        "student_id": 171,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 50
+    },
+    {
+        "student_id": 171,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 50
+    },
+    {
+        "student_id": 171,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 61
+    },
+    {
+        "student_id": 171,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 49
+    },
+    {
+        "student_id": 172,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 76
+    },
+    {
+        "student_id": 172,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 77
+    },
+    {
+        "student_id": 172,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 76
+    },
+    {
+        "student_id": 172,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 76
+    },
+    {
+        "student_id": 172,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 62
+    },
+    {
+        "student_id": 172,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 58
+    },
+    {
+        "student_id": 172,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 25
+    },
+    {
+        "student_id": 173,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 54
+    },
+    {
+        "student_id": 173,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 49
+    },
+    {
+        "student_id": 173,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 86
+    },
+    {
+        "student_id": 173,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 95
+    },
+    {
+        "student_id": 173,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 52
+    },
+    {
+        "student_id": 173,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 73
+    },
+    {
+        "student_id": 173,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 37
+    },
+    {
+        "student_id": 174,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 100
+    },
+    {
+        "student_id": 174,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 80
+    },
+    {
+        "student_id": 174,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 91
+    },
+    {
+        "student_id": 174,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 51
+    },
+    {
+        "student_id": 174,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 70
+    },
+    {
+        "student_id": 174,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 58
+    },
+    {
+        "student_id": 174,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 39
+    },
+    {
+        "student_id": 175,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 46
+    },
+    {
+        "student_id": 175,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 93
+    },
+    {
+        "student_id": 175,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 83
+    },
+    {
+        "student_id": 175,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 43
+    },
+    {
+        "student_id": 175,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 87
+    },
+    {
+        "student_id": 175,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 42
+    },
+    {
+        "student_id": 175,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 48
+    },
+    {
+        "student_id": 176,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 52
+    },
+    {
+        "student_id": 176,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 63
+    },
+    {
+        "student_id": 176,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 78
+    },
+    {
+        "student_id": 176,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 52
+    },
+    {
+        "student_id": 176,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 80
+    },
+    {
+        "student_id": 176,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 46
+    },
+    {
+        "student_id": 176,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 32
+    },
+    {
+        "student_id": 177,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 60
+    },
+    {
+        "student_id": 177,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 43
+    },
+    {
+        "student_id": 177,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 89
+    },
+    {
+        "student_id": 177,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 97
+    },
+    {
+        "student_id": 177,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 62
+    },
+    {
+        "student_id": 177,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 47
+    },
+    {
+        "student_id": 177,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 50
+    },
+    {
+        "student_id": 224,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 68
+    },
+    {
+        "student_id": 224,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 46
+    },
+    {
+        "student_id": 224,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 59
+    },
+    {
+        "student_id": 224,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 57
+    },
+    {
+        "student_id": 224,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 61
+    },
+    {
+        "student_id": 224,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 55
+    },
+    {
+        "student_id": 224,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 39
+    },
+    {
+        "student_id": 232,
+        "subjectName": "English",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 77
+    },
+    {
+        "student_id": 232,
+        "subjectName": "Nepali",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 85
+    },
+    {
+        "student_id": 232,
+        "subjectName": "Mathematics",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 71
+    },
+    {
+        "student_id": 232,
+        "subjectName": "Science",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 75
+    },
+    {
+        "student_id": 232,
+        "subjectName": "Social Studies",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 94
+    },
+    {
+        "student_id": 232,
+        "subjectName": "Computing",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 87
+    },
+    {
+        "student_id": 232,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 6,
+        "academicYear": 2023,
+        "marksObtained": 30
+    }
+]

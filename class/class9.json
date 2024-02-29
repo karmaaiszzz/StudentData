@@ -1,0 +1,1502 @@
+[
+  {
+    "username": "amelia.kim",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 10:34:02",
+    "exittime": "2024-02-01 14:55:31"
+  },
+  {
+    "username": "amelia.kim",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 09:36:26",
+    "exittime": "2024-02-02 15:54:42"
+  },
+  {
+    "username": "amelia.kim",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 10:48:32",
+    "exittime": "2024-02-03 16:26:42"
+  },
+  {
+    "username": "amelia.kim",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 09:41:21",
+    "exittime": "2024-02-04 14:59:26"
+  },
+  {
+    "username": "amelia.kim",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:57:51",
+    "exittime": "2024-02-05 16:00:19"
+  },
+  {
+    "username": "amelia.kim",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:11:48",
+    "exittime": "2024-02-06 15:14:46"
+  },
+  {
+    "username": "amelia.kim",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 09:47:32",
+    "exittime": "2024-02-07 15:25:19"
+  },
+  {
+    "username": "amelia.kim",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 10:19:27",
+    "exittime": "2024-02-08 16:36:10"
+  },
+  {
+    "username": "amelia.kim",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 09:10:31",
+    "exittime": "2024-02-09 16:06:46"
+  },
+  {
+    "username": "amelia.kim",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:26:08",
+    "exittime": "2024-02-10 14:45:20"
+  },
+  {
+    "username": "ashlyn",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 08:57:53",
+    "exittime": "2024-02-01 14:29:23"
+  },
+  {
+    "username": "ashlyn",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 09:17:55",
+    "exittime": "2024-02-02 15:16:54"
+  },
+  {
+    "username": "ashlyn",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 08:36:21",
+    "exittime": "2024-02-03 14:22:13"
+  },
+  {
+    "username": "ashlyn",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 10:46:22",
+    "exittime": "2024-02-04 14:47:35"
+  },
+  {
+    "username": "ashlyn",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:08:14",
+    "exittime": "2024-02-05 15:45:06"
+  },
+  {
+    "username": "ashlyn",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:33:11",
+    "exittime": "2024-02-06 14:54:46"
+  },
+  {
+    "username": "ashlyn",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 08:39:38",
+    "exittime": "2024-02-07 14:32:40"
+  },
+  {
+    "username": "ashlyn",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 08:18:02",
+    "exittime": "2024-02-08 14:38:17"
+  },
+  {
+    "username": "ashlyn",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 10:42:14",
+    "exittime": "2024-02-09 16:32:16"
+  },
+  {
+    "username": "ashlyn",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 09:52:18",
+    "exittime": "2024-02-10 16:24:44"
+  },
+  {
+    "username": "emory",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 10:56:48",
+    "exittime": "2024-02-01 16:42:14"
+  },
+  {
+    "username": "emory",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 09:50:01",
+    "exittime": "2024-02-02 14:56:33"
+  },
+  {
+    "username": "emory",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 08:50:20",
+    "exittime": "2024-02-03 15:39:05"
+  },
+  {
+    "username": "emory",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 09:13:41",
+    "exittime": "2024-02-04 14:59:05"
+  },
+  {
+    "username": "emory",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 08:33:59",
+    "exittime": "2024-02-05 15:19:51"
+  },
+  {
+    "username": "emory",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:45:10",
+    "exittime": "2024-02-06 15:57:18"
+  },
+  {
+    "username": "emory",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 09:05:37",
+    "exittime": "2024-02-07 16:09:16"
+  },
+  {
+    "username": "emory",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 10:03:28",
+    "exittime": "2024-02-08 14:16:04"
+  },
+  {
+    "username": "emory",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 10:46:24",
+    "exittime": "2024-02-09 15:27:18"
+  },
+  {
+    "username": "emory",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 09:45:31",
+    "exittime": "2024-02-10 16:21:08"
+  },
+  {
+    "username": "tiffany",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 08:23:06",
+    "exittime": "2024-02-01 14:41:09"
+  },
+  {
+    "username": "tiffany",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:38:50",
+    "exittime": "2024-02-02 15:23:03"
+  },
+  {
+    "username": "tiffany",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 08:08:08",
+    "exittime": "2024-02-03 15:44:04"
+  },
+  {
+    "username": "tiffany",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 10:55:59",
+    "exittime": "2024-02-04 14:38:25"
+  },
+  {
+    "username": "tiffany",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 09:27:46",
+    "exittime": "2024-02-05 16:51:47"
+  },
+  {
+    "username": "tiffany",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:04:31",
+    "exittime": "2024-02-06 14:19:06"
+  },
+  {
+    "username": "tiffany",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 08:15:14",
+    "exittime": "2024-02-07 15:35:05"
+  },
+  {
+    "username": "tiffany",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 08:41:06",
+    "exittime": "2024-02-08 16:19:27"
+  },
+  {
+    "username": "tiffany",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 10:38:33",
+    "exittime": "2024-02-09 16:59:41"
+  },
+  {
+    "username": "tiffany",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 09:03:19",
+    "exittime": "2024-02-10 14:19:39"
+  },
+  {
+    "username": "alberto",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 10:32:47",
+    "exittime": "2024-02-01 14:39:20"
+  },
+  {
+    "username": "alberto",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:26:56",
+    "exittime": "2024-02-02 14:21:24"
+  },
+  {
+    "username": "alberto",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 08:41:44",
+    "exittime": "2024-02-03 15:00:17"
+  },
+  {
+    "username": "alberto",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 09:44:00",
+    "exittime": "2024-02-04 15:22:44"
+  },
+  {
+    "username": "alberto",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:40:13",
+    "exittime": "2024-02-05 15:01:15"
+  },
+  {
+    "username": "alberto",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 09:45:25",
+    "exittime": "2024-02-06 15:40:42"
+  },
+  {
+    "username": "alberto",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 08:35:56",
+    "exittime": "2024-02-07 15:02:17"
+  },
+  {
+    "username": "alberto",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 08:47:34",
+    "exittime": "2024-02-08 14:24:23"
+  },
+  {
+    "username": "alberto",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 09:42:56",
+    "exittime": "2024-02-09 16:55:44"
+  },
+  {
+    "username": "alberto",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 10:34:19",
+    "exittime": "2024-02-10 14:44:58"
+  },
+  {
+    "username": "makayla",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 08:42:53",
+    "exittime": "2024-02-01 15:42:52"
+  },
+  {
+    "username": "makayla",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 09:02:29",
+    "exittime": "2024-02-02 14:16:15"
+  },
+  {
+    "username": "makayla",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 10:11:24",
+    "exittime": "2024-02-03 16:50:39"
+  },
+  {
+    "username": "makayla",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 10:22:25",
+    "exittime": "2024-02-04 14:41:51"
+  },
+  {
+    "username": "makayla",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 09:52:57",
+    "exittime": "2024-02-05 15:11:57"
+  },
+  {
+    "username": "makayla",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 08:46:28",
+    "exittime": "2024-02-06 14:53:40"
+  },
+  {
+    "username": "makayla",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 10:40:06",
+    "exittime": "2024-02-07 15:34:26"
+  },
+  {
+    "username": "makayla",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 09:10:13",
+    "exittime": "2024-02-08 14:41:33"
+  },
+  {
+    "username": "makayla",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 10:50:47",
+    "exittime": "2024-02-09 16:08:40"
+  },
+  {
+    "username": "makayla",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 09:56:42",
+    "exittime": "2024-02-10 14:20:12"
+  },
+  {
+    "username": "uriah",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 09:50:41",
+    "exittime": "2024-02-01 14:22:11"
+  },
+  {
+    "username": "uriah",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 09:48:50",
+    "exittime": "2024-02-02 14:38:21"
+  },
+  {
+    "username": "uriah",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 10:43:36",
+    "exittime": "2024-02-03 14:14:22"
+  },
+  {
+    "username": "uriah",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 08:20:26",
+    "exittime": "2024-02-04 14:02:56"
+  },
+  {
+    "username": "uriah",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:40:29",
+    "exittime": "2024-02-05 15:18:58"
+  },
+  {
+    "username": "uriah",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 09:07:40",
+    "exittime": "2024-02-06 15:05:27"
+  },
+  {
+    "username": "uriah",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 10:54:17",
+    "exittime": "2024-02-07 15:19:45"
+  },
+  {
+    "username": "uriah",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 10:29:26",
+    "exittime": "2024-02-08 14:58:26"
+  },
+  {
+    "username": "uriah",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 08:46:08",
+    "exittime": "2024-02-09 16:45:29"
+  },
+  {
+    "username": "uriah",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:55:23",
+    "exittime": "2024-02-10 16:47:38"
+  },
+  {
+    "username": "alani",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 09:58:48",
+    "exittime": "2024-02-01 15:08:23"
+  },
+  {
+    "username": "alani",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:53:37",
+    "exittime": "2024-02-02 16:43:31"
+  },
+  {
+    "username": "alani",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 08:19:10",
+    "exittime": "2024-02-03 15:15:08"
+  },
+  {
+    "username": "alani",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 08:44:41",
+    "exittime": "2024-02-04 15:56:50"
+  },
+  {
+    "username": "alani",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 08:52:09",
+    "exittime": "2024-02-05 14:35:11"
+  },
+  {
+    "username": "alani",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:24:45",
+    "exittime": "2024-02-06 15:43:48"
+  },
+  {
+    "username": "alani",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 09:59:28",
+    "exittime": "2024-02-07 14:38:57"
+  },
+  {
+    "username": "alani",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 08:45:41",
+    "exittime": "2024-02-08 14:24:21"
+  },
+  {
+    "username": "alani",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 10:12:52",
+    "exittime": "2024-02-09 15:42:46"
+  },
+  {
+    "username": "alani",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:13:35",
+    "exittime": "2024-02-10 14:34:46"
+  },
+  {
+    "username": "abdullah",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 09:04:34",
+    "exittime": "2024-02-01 15:15:16"
+  },
+  {
+    "username": "abdullah",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:38:38",
+    "exittime": "2024-02-02 16:34:30"
+  },
+  {
+    "username": "abdullah",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 09:37:14",
+    "exittime": "2024-02-03 16:32:53"
+  },
+  {
+    "username": "abdullah",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 10:55:48",
+    "exittime": "2024-02-04 15:37:24"
+  },
+  {
+    "username": "abdullah",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:57:47",
+    "exittime": "2024-02-05 14:29:22"
+  },
+  {
+    "username": "abdullah",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:04:55",
+    "exittime": "2024-02-06 15:15:56"
+  },
+  {
+    "username": "abdullah",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 10:06:58",
+    "exittime": "2024-02-07 15:11:53"
+  },
+  {
+    "username": "abdullah",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 09:48:28",
+    "exittime": "2024-02-08 14:50:22"
+  },
+  {
+    "username": "abdullah",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 08:23:40",
+    "exittime": "2024-02-09 16:04:59"
+  },
+  {
+    "username": "abdullah",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 09:50:32",
+    "exittime": "2024-02-10 16:30:34"
+  },
+  {
+    "username": "dorothy",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 09:15:08",
+    "exittime": "2024-02-01 15:57:26"
+  },
+  {
+    "username": "dorothy",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 08:24:05",
+    "exittime": "2024-02-02 16:08:10"
+  },
+  {
+    "username": "dorothy",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 10:32:26",
+    "exittime": "2024-02-03 16:30:39"
+  },
+  {
+    "username": "dorothy",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 08:13:58",
+    "exittime": "2024-02-04 15:57:50"
+  },
+  {
+    "username": "dorothy",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:32:57",
+    "exittime": "2024-02-05 16:00:29"
+  },
+  {
+    "username": "dorothy",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:49:17",
+    "exittime": "2024-02-06 14:15:18"
+  },
+  {
+    "username": "dorothy",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 10:50:22",
+    "exittime": "2024-02-07 14:36:00"
+  },
+  {
+    "username": "dorothy",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 10:57:06",
+    "exittime": "2024-02-08 14:34:27"
+  },
+  {
+    "username": "dorothy",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 10:28:39",
+    "exittime": "2024-02-09 16:09:09"
+  },
+  {
+    "username": "dorothy",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:48:16",
+    "exittime": "2024-02-10 14:04:12"
+  },
+  {
+    "username": "zain",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 08:58:07",
+    "exittime": "2024-02-01 15:09:44"
+  },
+  {
+    "username": "zain",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 08:47:51",
+    "exittime": "2024-02-02 16:41:31"
+  },
+  {
+    "username": "zain",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 10:40:09",
+    "exittime": "2024-02-03 15:31:40"
+  },
+  {
+    "username": "zain",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 08:11:36",
+    "exittime": "2024-02-04 14:07:02"
+  },
+  {
+    "username": "zain",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 09:34:50",
+    "exittime": "2024-02-05 15:43:46"
+  },
+  {
+    "username": "zain",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:21:18",
+    "exittime": "2024-02-06 14:40:10"
+  },
+  {
+    "username": "zain",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 08:34:22",
+    "exittime": "2024-02-07 14:20:26"
+  },
+  {
+    "username": "zain",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 08:30:48",
+    "exittime": "2024-02-08 15:25:46"
+  },
+  {
+    "username": "zain",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 09:47:55",
+    "exittime": "2024-02-09 16:49:36"
+  },
+  {
+    "username": "zain",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:14:35",
+    "exittime": "2024-02-10 16:03:01"
+  },
+  {
+    "username": "rivka",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 10:37:10",
+    "exittime": "2024-02-01 14:44:53"
+  },
+  {
+    "username": "rivka",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:20:40",
+    "exittime": "2024-02-02 14:01:30"
+  },
+  {
+    "username": "rivka",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 09:56:53",
+    "exittime": "2024-02-03 16:28:38"
+  },
+  {
+    "username": "rivka",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 09:43:37",
+    "exittime": "2024-02-04 15:48:01"
+  },
+  {
+    "username": "rivka",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:28:29",
+    "exittime": "2024-02-05 16:18:43"
+  },
+  {
+    "username": "rivka",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:20:27",
+    "exittime": "2024-02-06 15:52:21"
+  },
+  {
+    "username": "rivka",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 09:26:33",
+    "exittime": "2024-02-07 15:51:55"
+  },
+  {
+    "username": "rivka",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 09:48:57",
+    "exittime": "2024-02-08 14:29:11"
+  },
+  {
+    "username": "rivka",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 09:48:25",
+    "exittime": "2024-02-09 14:32:32"
+  },
+  {
+    "username": "rivka",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:20:34",
+    "exittime": "2024-02-10 15:51:57"
+  },
+  {
+    "username": "mylo.mccarthy",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 09:47:24",
+    "exittime": "2024-02-01 15:18:14"
+  },
+  {
+    "username": "mylo.mccarthy",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:37:36",
+    "exittime": "2024-02-02 16:05:53"
+  },
+  {
+    "username": "mylo.mccarthy",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 09:17:47",
+    "exittime": "2024-02-03 15:51:38"
+  },
+  {
+    "username": "mylo.mccarthy",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 08:50:53",
+    "exittime": "2024-02-04 15:11:17"
+  },
+  {
+    "username": "mylo.mccarthy",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:18:00",
+    "exittime": "2024-02-05 14:20:14"
+  },
+  {
+    "username": "mylo.mccarthy",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:21:36",
+    "exittime": "2024-02-06 16:47:39"
+  },
+  {
+    "username": "mylo.mccarthy",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 08:09:35",
+    "exittime": "2024-02-07 16:53:29"
+  },
+  {
+    "username": "mylo.mccarthy",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 08:31:44",
+    "exittime": "2024-02-08 15:14:12"
+  },
+  {
+    "username": "mylo.mccarthy",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 10:20:58",
+    "exittime": "2024-02-09 16:39:22"
+  },
+  {
+    "username": "mylo.mccarthy",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:01:41",
+    "exittime": "2024-02-10 16:00:49"
+  },
+  {
+    "username": "kira",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 08:23:47",
+    "exittime": "2024-02-01 15:07:29"
+  },
+  {
+    "username": "kira",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 08:12:47",
+    "exittime": "2024-02-02 16:18:30"
+  },
+  {
+    "username": "kira",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 10:25:35",
+    "exittime": "2024-02-03 16:51:57"
+  },
+  {
+    "username": "kira",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 10:14:34",
+    "exittime": "2024-02-04 14:58:32"
+  },
+  {
+    "username": "kira",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 08:46:28",
+    "exittime": "2024-02-05 15:52:36"
+  },
+  {
+    "username": "kira",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:16:44",
+    "exittime": "2024-02-06 16:59:01"
+  },
+  {
+    "username": "kira",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 08:37:54",
+    "exittime": "2024-02-07 16:57:10"
+  },
+  {
+    "username": "kira",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 09:32:03",
+    "exittime": "2024-02-08 15:10:07"
+  },
+  {
+    "username": "kira",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 09:42:27",
+    "exittime": "2024-02-09 16:08:30"
+  },
+  {
+    "username": "kira",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 09:46:21",
+    "exittime": "2024-02-10 16:52:05"
+  },
+  {
+    "username": "dilan",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 08:00:52",
+    "exittime": "2024-02-01 16:46:54"
+  },
+  {
+    "username": "dilan",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:59:17",
+    "exittime": "2024-02-02 16:08:55"
+  },
+  {
+    "username": "dilan",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 10:27:08",
+    "exittime": "2024-02-03 15:44:59"
+  },
+  {
+    "username": "dilan",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 08:05:50",
+    "exittime": "2024-02-04 15:05:41"
+  },
+  {
+    "username": "dilan",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 08:35:22",
+    "exittime": "2024-02-05 16:57:44"
+  },
+  {
+    "username": "dilan",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 09:03:04",
+    "exittime": "2024-02-06 16:36:15"
+  },
+  {
+    "username": "dilan",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 08:27:07",
+    "exittime": "2024-02-07 16:24:29"
+  },
+  {
+    "username": "dilan",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 08:06:43",
+    "exittime": "2024-02-08 14:21:27"
+  },
+  {
+    "username": "dilan",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 08:47:52",
+    "exittime": "2024-02-09 16:08:31"
+  },
+  {
+    "username": "dilan",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 09:26:36",
+    "exittime": "2024-02-10 15:08:15"
+  },
+  {
+    "username": "zoie",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 09:14:22",
+    "exittime": "2024-02-01 16:28:14"
+  },
+  {
+    "username": "zoie",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:34:21",
+    "exittime": "2024-02-02 16:48:27"
+  },
+  {
+    "username": "zoie",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 09:23:12",
+    "exittime": "2024-02-03 14:14:34"
+  },
+  {
+    "username": "zoie",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 09:10:21",
+    "exittime": "2024-02-04 15:49:37"
+  },
+  {
+    "username": "zoie",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 09:00:24",
+    "exittime": "2024-02-05 15:53:29"
+  },
+  {
+    "username": "zoie",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:02:42",
+    "exittime": "2024-02-06 15:09:01"
+  },
+  {
+    "username": "zoie",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 09:00:33",
+    "exittime": "2024-02-07 14:37:01"
+  },
+  {
+    "username": "zoie",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 10:21:52",
+    "exittime": "2024-02-08 14:20:10"
+  },
+  {
+    "username": "zoie",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 08:46:57",
+    "exittime": "2024-02-09 16:16:00"
+  },
+  {
+    "username": "zoie",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:01:02",
+    "exittime": "2024-02-10 16:02:05"
+  },
+  {
+    "username": "waylon",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 10:39:50",
+    "exittime": "2024-02-01 16:13:02"
+  },
+  {
+    "username": "waylon",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 08:19:08",
+    "exittime": "2024-02-02 15:09:18"
+  },
+  {
+    "username": "waylon",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 09:41:45",
+    "exittime": "2024-02-03 15:42:04"
+  },
+  {
+    "username": "waylon",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 09:02:19",
+    "exittime": "2024-02-04 16:09:04"
+  },
+  {
+    "username": "waylon",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:31:07",
+    "exittime": "2024-02-05 15:04:38"
+  },
+  {
+    "username": "waylon",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 08:42:55",
+    "exittime": "2024-02-06 15:46:29"
+  },
+  {
+    "username": "waylon",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 10:53:37",
+    "exittime": "2024-02-07 14:26:36"
+  },
+  {
+    "username": "waylon",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 09:43:42",
+    "exittime": "2024-02-08 14:57:55"
+  },
+  {
+    "username": "waylon",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 08:49:32",
+    "exittime": "2024-02-09 15:32:43"
+  },
+  {
+    "username": "waylon",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:03:58",
+    "exittime": "2024-02-10 15:53:22"
+  },
+  {
+    "username": "kendra",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 09:35:42",
+    "exittime": "2024-02-01 16:32:31"
+  },
+  {
+    "username": "kendra",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:07:35",
+    "exittime": "2024-02-02 16:34:51"
+  },
+  {
+    "username": "kendra",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 10:32:01",
+    "exittime": "2024-02-03 16:03:03"
+  },
+  {
+    "username": "kendra",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 09:00:00",
+    "exittime": "2024-02-04 14:35:30"
+  },
+  {
+    "username": "kendra",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 08:45:08",
+    "exittime": "2024-02-05 16:23:26"
+  },
+  {
+    "username": "kendra",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:51:17",
+    "exittime": "2024-02-06 15:04:40"
+  },
+  {
+    "username": "kendra",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 08:03:32",
+    "exittime": "2024-02-07 16:53:37"
+  },
+  {
+    "username": "kendra",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 08:16:35",
+    "exittime": "2024-02-08 14:23:54"
+  },
+  {
+    "username": "kendra",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 09:19:39",
+    "exittime": "2024-02-09 14:05:25"
+  },
+  {
+    "username": "kendra",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:58:16",
+    "exittime": "2024-02-10 14:11:49"
+  },
+  {
+    "username": "davis",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 08:34:18",
+    "exittime": "2024-02-01 16:51:04"
+  },
+  {
+    "username": "davis",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 08:11:26",
+    "exittime": "2024-02-02 16:53:52"
+  },
+  {
+    "username": "davis",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 08:25:42",
+    "exittime": "2024-02-03 14:20:52"
+  },
+  {
+    "username": "davis",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 10:16:43",
+    "exittime": "2024-02-04 15:25:46"
+  },
+  {
+    "username": "davis",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 08:39:09",
+    "exittime": "2024-02-05 16:31:05"
+  },
+  {
+    "username": "davis",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 09:06:04",
+    "exittime": "2024-02-06 16:24:37"
+  },
+  {
+    "username": "davis",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 08:15:36",
+    "exittime": "2024-02-07 14:28:21"
+  },
+  {
+    "username": "davis",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 09:31:41",
+    "exittime": "2024-02-08 16:16:25"
+  },
+  {
+    "username": "davis",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 10:49:31",
+    "exittime": "2024-02-09 16:53:32"
+  },
+  {
+    "username": "davis",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 09:26:44",
+    "exittime": "2024-02-10 14:22:02"
+  },
+  {
+    "username": "estrella",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 08:52:22",
+    "exittime": "2024-02-01 15:55:25"
+  },
+  {
+    "username": "estrella",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 09:35:08",
+    "exittime": "2024-02-02 16:29:48"
+  },
+  {
+    "username": "estrella",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 09:54:32",
+    "exittime": "2024-02-03 16:03:47"
+  },
+  {
+    "username": "estrella",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 09:50:16",
+    "exittime": "2024-02-04 16:28:55"
+  },
+  {
+    "username": "estrella",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 08:00:10",
+    "exittime": "2024-02-05 14:55:16"
+  },
+  {
+    "username": "estrella",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:57:43",
+    "exittime": "2024-02-06 14:31:05"
+  },
+  {
+    "username": "estrella",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 09:12:20",
+    "exittime": "2024-02-07 14:57:40"
+  },
+  {
+    "username": "estrella",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 10:20:49",
+    "exittime": "2024-02-08 15:58:23"
+  },
+  {
+    "username": "estrella",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 10:12:02",
+    "exittime": "2024-02-09 16:07:08"
+  },
+  {
+    "username": "estrella",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 10:30:29",
+    "exittime": "2024-02-10 15:09:07"
+  },
+  {
+    "username": "armani.mendez",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 10:50:01",
+    "exittime": "2024-02-01 14:24:04"
+  },
+  {
+    "username": "armani.mendez",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 09:33:25",
+    "exittime": "2024-02-02 15:55:15"
+  },
+  {
+    "username": "armani.mendez",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 10:34:11",
+    "exittime": "2024-02-03 16:20:18"
+  },
+  {
+    "username": "armani.mendez",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 10:06:15",
+    "exittime": "2024-02-04 16:26:55"
+  },
+  {
+    "username": "armani.mendez",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:51:28",
+    "exittime": "2024-02-05 16:44:27"
+  },
+  {
+    "username": "armani.mendez",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 10:53:27",
+    "exittime": "2024-02-06 14:05:07"
+  },
+  {
+    "username": "armani.mendez",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 10:27:41",
+    "exittime": "2024-02-07 14:39:23"
+  },
+  {
+    "username": "armani.mendez",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 09:35:55",
+    "exittime": "2024-02-08 16:32:15"
+  },
+  {
+    "username": "armani.mendez",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 09:46:36",
+    "exittime": "2024-02-09 16:56:55"
+  },
+  {
+    "username": "armani.mendez",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 09:49:43",
+    "exittime": "2024-02-10 16:30:17"
+  },
+  {
+    "username": "marcyo",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 10:19:01",
+    "exittime": "2024-02-01 16:23:43"
+  },
+  {
+    "username": "marcyo",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:56:38",
+    "exittime": "2024-02-02 15:36:54"
+  },
+  {
+    "username": "marcyo",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 09:33:47",
+    "exittime": "2024-02-03 16:33:59"
+  },
+  {
+    "username": "marcyo",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 08:16:44",
+    "exittime": "2024-02-04 15:28:28"
+  },
+  {
+    "username": "marcyo",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 08:19:24",
+    "exittime": "2024-02-05 14:06:32"
+  },
+  {
+    "username": "marcyo",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 09:49:53",
+    "exittime": "2024-02-06 14:49:55"
+  },
+  {
+    "username": "marcyo",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 10:49:26",
+    "exittime": "2024-02-07 14:36:45"
+  },
+  {
+    "username": "marcyo",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 10:53:07",
+    "exittime": "2024-02-08 14:14:30"
+  },
+  {
+    "username": "marcyo",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 08:33:50",
+    "exittime": "2024-02-09 15:02:28"
+  },
+  {
+    "username": "marcyo",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:14:46",
+    "exittime": "2024-02-10 15:16:19"
+  },
+  {
+    "username": "bonniey",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 10:56:44",
+    "exittime": "2024-02-01 14:26:22"
+  },
+  {
+    "username": "bonniey",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 10:13:53",
+    "exittime": "2024-02-02 15:39:44"
+  },
+  {
+    "username": "bonniey",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 10:16:30",
+    "exittime": "2024-02-03 15:42:43"
+  },
+  {
+    "username": "bonniey",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 09:24:02",
+    "exittime": "2024-02-04 16:53:23"
+  },
+  {
+    "username": "bonniey",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:19:33",
+    "exittime": "2024-02-05 14:15:08"
+  },
+  {
+    "username": "bonniey",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 09:00:56",
+    "exittime": "2024-02-06 14:40:32"
+  },
+  {
+    "username": "bonniey",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 09:25:36",
+    "exittime": "2024-02-07 15:20:48"
+  },
+  {
+    "username": "bonniey",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 09:52:27",
+    "exittime": "2024-02-08 14:11:02"
+  },
+  {
+    "username": "bonniey",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 08:42:13",
+    "exittime": "2024-02-09 15:30:38"
+  },
+  {
+    "username": "bonniey",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:32:40",
+    "exittime": "2024-02-10 16:31:45"
+  },
+  {
+    "username": "estryella.terry",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 10:39:38",
+    "exittime": "2024-02-01 16:36:42"
+  },
+  {
+    "username": "estryella.terry",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 09:04:46",
+    "exittime": "2024-02-02 14:05:24"
+  },
+  {
+    "username": "estryella.terry",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 09:36:22",
+    "exittime": "2024-02-03 14:34:09"
+  },
+  {
+    "username": "estryella.terry",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 10:28:33",
+    "exittime": "2024-02-04 14:13:58"
+  },
+  {
+    "username": "estryella.terry",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 09:34:54",
+    "exittime": "2024-02-05 15:20:18"
+  },
+  {
+    "username": "estryella.terry",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 09:57:17",
+    "exittime": "2024-02-06 15:22:55"
+  },
+  {
+    "username": "estryella.terry",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 08:02:57",
+    "exittime": "2024-02-07 15:17:47"
+  },
+  {
+    "username": "estryella.terry",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 10:32:14",
+    "exittime": "2024-02-08 14:40:30"
+  },
+  {
+    "username": "estryella.terry",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 08:26:48",
+    "exittime": "2024-02-09 14:11:13"
+  },
+  {
+    "username": "estryella.terry",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 09:48:45",
+    "exittime": "2024-02-10 16:19:45"
+  },
+  {
+    "username": "beleyn.alvarado",
+    "date": "2024-02-01",
+    "entrytime": "2024-02-01 10:04:58",
+    "exittime": "2024-02-01 16:36:38"
+  },
+  {
+    "username": "beleyn.alvarado",
+    "date": "2024-02-02",
+    "entrytime": "2024-02-02 08:15:56",
+    "exittime": "2024-02-02 14:22:16"
+  },
+  {
+    "username": "beleyn.alvarado",
+    "date": "2024-02-03",
+    "entrytime": "2024-02-03 09:42:39",
+    "exittime": "2024-02-03 16:30:32"
+  },
+  {
+    "username": "beleyn.alvarado",
+    "date": "2024-02-04",
+    "entrytime": "2024-02-04 09:21:02",
+    "exittime": "2024-02-04 16:22:03"
+  },
+  {
+    "username": "beleyn.alvarado",
+    "date": "2024-02-05",
+    "entrytime": "2024-02-05 10:17:54",
+    "exittime": "2024-02-05 16:40:05"
+  },
+  {
+    "username": "beleyn.alvarado",
+    "date": "2024-02-06",
+    "entrytime": "2024-02-06 08:21:50",
+    "exittime": "2024-02-06 15:06:32"
+  },
+  {
+    "username": "beleyn.alvarado",
+    "date": "2024-02-07",
+    "entrytime": "2024-02-07 09:15:52",
+    "exittime": "2024-02-07 16:48:38"
+  },
+  {
+    "username": "beleyn.alvarado",
+    "date": "2024-02-08",
+    "entrytime": "2024-02-08 10:48:20",
+    "exittime": "2024-02-08 16:28:13"
+  },
+  {
+    "username": "beleyn.alvarado",
+    "date": "2024-02-09",
+    "entrytime": "2024-02-09 10:56:00",
+    "exittime": "2024-02-09 16:13:54"
+  },
+  {
+    "username": "beleyn.alvarado",
+    "date": "2024-02-10",
+    "entrytime": "2024-02-10 08:49:05",
+    "exittime": "2024-02-10 16:42:54"
+  }
+]
