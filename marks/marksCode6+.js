@@ -22,8 +22,8 @@ function generateMarks() {
   const marks = [];
 
   studentIds.forEach((studentId) => {
-    const classId = 10; // Assuming all students are in the same class
-    const academicYear = 2023;
+    const classId = 6; // Assuming all students are in the same class
+    const academicYear = 2019;
 
     subjects.forEach((subject) => {
       let marksObtained;

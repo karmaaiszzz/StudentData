@@ -2,8 +2,8 @@ const fs = require("fs");
 
 // Array of studentIds for classId=1
 const studentIds = [
-  12, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 158, 159, 160, 161, 162, 163, 164,
-  165, 166, 167, 225, 227, 235,
+  17, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 208, 209, 210, 211, 212,
+  213, 214, 215, 216, 217, 218, 219, 220, 223, 236,
 ];
 
 // Function to generate random marks for each subject
@@ -12,8 +12,8 @@ function generateMarks() {
   const marks = [];
 
   studentIds.forEach((studentId) => {
-    const classId = 5; // Assuming all students are in the same class
-    const academicYear = 2023;
+    const classId = 1; // Assuming all students are in the same class
+    const academicYear = 2014;
 
     subjects.forEach((subject) => {
       const marksObtained = Math.floor(Math.random() * 101); // Random marks between 0 and 100
