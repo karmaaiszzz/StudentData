@@ -1,0 +1,425 @@
+[
+  {
+    "firstName": "Jessica",
+    "lastName": "White",
+    "gender": "Male",
+    "dateOfBirth": "1981-02-04",
+    "mobile": "6097334809",
+    "joiningDate": "2022-11-02",
+    "qualification": "Bachelor's Degree",
+    "experience": 12,
+    "email": "jessica.white@example.com",
+    "username": "jessica.white",
+    "password": "admin",
+    "role": "teacher",
+    "address": "841Street",
+    "city": "Chicago",
+    "state": "MI",
+    "zipCode": "19101",
+    "country": "UK",
+    "subjects": [
+      {
+        "subjectName": "Computer",
+        "classId": "2"
+      }
+    ]
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Williams",
+    "gender": "Male",
+    "dateOfBirth": "1966-10-20",
+    "mobile": "9012471733",
+    "joiningDate": "2016-05-08",
+    "qualification": "Master's Degree",
+    "experience": 8,
+    "email": "elizabeth.williams@example.com",
+    "username": "elizabeth.williams",
+    "password": "admin",
+    "role": "teacher",
+    "address": "774Street",
+    "city": "Philadelphia",
+    "state": "CA",
+    "zipCode": "92101",
+    "country": "Japan",
+    "subjects": [
+      {
+        "subjectName": "Nepali",
+        "classId": "5"
+      },
+      {
+        "subjectName": "English",
+        "classId": "2"
+      }
+    ]
+  },
+  {
+    "firstName": "Patricia",
+    "lastName": "Hernandez",
+    "gender": "Male",
+    "dateOfBirth": "1991-05-10",
+    "mobile": "1229716062",
+    "joiningDate": "2021-01-01",
+    "qualification": "PhD",
+    "experience": 6,
+    "email": "patricia.hernandez@example.com",
+    "username": "patricia.hernandez",
+    "password": "admin",
+    "role": "teacher",
+    "address": "989Street",
+    "city": "Philadelphia",
+    "state": "CA",
+    "zipCode": "98101",
+    "country": "Canada",
+    "subjects": [
+      {
+        "subjectName": "Computer",
+        "classId": "1"
+      },
+      {
+        "subjectName": "English",
+        "classId": "1"
+      },
+      {
+        "subjectName": "Science",
+        "classId": "4"
+      }
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Taylor",
+    "gender": "Female",
+    "dateOfBirth": "1953-03-08",
+    "mobile": "8868303395",
+    "joiningDate": "2020-06-03",
+    "qualification": "Bachelor's Degree",
+    "experience": 2,
+    "email": "david.taylor@example.com",
+    "username": "david.taylor",
+    "password": "admin",
+    "role": "teacher",
+    "address": "223Street",
+    "city": "Chicago",
+    "state": "PA",
+    "zipCode": "98101",
+    "country": "Australia",
+    "subjects": [
+      {
+        "subjectName": "English",
+        "classId": "2"
+      }
+    ]
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Williams",
+    "gender": "Male",
+    "dateOfBirth": "1967-01-12",
+    "mobile": "9762122355",
+    "joiningDate": "2011-01-30",
+    "qualification": "PhD",
+    "experience": 18,
+    "email": "linda.williams@example.com",
+    "username": "linda.williams",
+    "password": "admin",
+    "role": "teacher",
+    "address": "505Street",
+    "city": "Philadelphia",
+    "state": "IL",
+    "zipCode": "85001",
+    "country": "France",
+    "subjects": [
+      {
+        "subjectName": "Computer",
+        "classId": "1"
+      }
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Taylor",
+    "gender": "Female",
+    "dateOfBirth": "1978-04-22",
+    "mobile": "4477235280",
+    "joiningDate": "2022-02-15",
+    "qualification": "PhD",
+    "experience": 6,
+    "email": "john.taylor@example.com",
+    "username": "john.taylor",
+    "password": "admin",
+    "role": "teacher",
+    "address": "177Street",
+    "city": "San Antonio",
+    "state": "PA",
+    "zipCode": "75201",
+    "country": "USA",
+    "subjects": [
+      {
+        "subjectName": "Maths",
+        "classId": "1"
+      },
+      {
+        "subjectName": "Science",
+        "classId": "3"
+      }
+    ]
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Garcia",
+    "gender": "Male",
+    "dateOfBirth": "1954-09-24",
+    "mobile": "4956885331",
+    "joiningDate": "2012-01-04",
+    "qualification": "Bachelor's Degree",
+    "experience": 5,
+    "email": "thomas.garcia@example.com",
+    "username": "thomas.garcia",
+    "password": "admin",
+    "role": "teacher",
+    "address": "53Street",
+    "city": "Houston",
+    "state": "NC",
+    "zipCode": "19101",
+    "country": "UK",
+    "subjects": [
+      {
+        "subjectName": "Computer",
+        "classId": "5"
+      },
+      {
+        "subjectName": "Nepali",
+        "classId": "5"
+      }
+    ]
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Hernandez",
+    "gender": "Female",
+    "dateOfBirth": "1999-11-24",
+    "mobile": "8161747615",
+    "joiningDate": "2010-04-05",
+    "qualification": "PhD",
+    "experience": 1,
+    "email": "susan.hernandez@example.com",
+    "username": "susan.hernandez",
+    "password": "admin",
+    "role": "teacher",
+    "address": "44Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "85001",
+    "country": "China",
+    "subjects": [
+      {
+        "subjectName": "Computer",
+        "classId": "4"
+      }
+    ]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Williams",
+    "gender": "Male",
+    "dateOfBirth": "1963-01-02",
+    "mobile": "9487093985",
+    "joiningDate": "2022-08-07",
+    "qualification": "Bachelor's Degree",
+    "experience": 13,
+    "email": "james.williams@example.com",
+    "username": "james.williams",
+    "password": "admin",
+    "role": "teacher",
+    "address": "508Street",
+    "city": "San Antonio",
+    "state": "PA",
+    "zipCode": "92101",
+    "country": "India",
+    "subjects": [
+      {
+        "subjectName": "English",
+        "classId": "2"
+      }
+    ]
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Rodriguez",
+    "gender": "Female",
+    "dateOfBirth": "1965-08-26",
+    "mobile": "1298937080",
+    "joiningDate": "2022-08-09",
+    "qualification": "PhD",
+    "experience": 6,
+    "email": "sarah.rodriguez@example.com",
+    "username": "sarah.rodriguez",
+    "password": "admin",
+    "role": "teacher",
+    "address": "896Street",
+    "city": "Chicago",
+    "state": "PA",
+    "zipCode": "10001",
+    "country": "India",
+    "subjects": [
+      {
+        "subjectName": "English",
+        "classId": "3"
+      },
+      {
+        "subjectName": "Computer",
+        "classId": "4"
+      }
+    ]
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Brown",
+    "gender": "Male",
+    "dateOfBirth": "1980-07-25",
+    "mobile": "2106656118",
+    "joiningDate": "2010-06-21",
+    "qualification": "PhD",
+    "experience": 2,
+    "email": "sarah.brown@example.com",
+    "username": "sarah.brown",
+    "password": "admin",
+    "role": "teacher",
+    "address": "56Street",
+    "city": "San Jose",
+    "state": "GA",
+    "zipCode": "98101",
+    "country": "Germany",
+    "subjects": [
+      {
+        "subjectName": "Science",
+        "classId": "5"
+      },
+      {
+        "subjectName": "Computer",
+        "classId": "2"
+      }
+    ]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Jones",
+    "gender": "Male",
+    "dateOfBirth": "1965-04-13",
+    "mobile": "2796468712",
+    "joiningDate": "2020-12-22",
+    "qualification": "PhD",
+    "experience": 8,
+    "email": "james.jones@example.com",
+    "username": "james.jones",
+    "password": "admin",
+    "role": "teacher",
+    "address": "568Street",
+    "city": "San Antonio",
+    "state": "NC",
+    "zipCode": "92101",
+    "country": "Germany",
+    "subjects": [
+      {
+        "subjectName": "Nepali",
+        "classId": "3"
+      },
+      {
+        "subjectName": "Computer",
+        "classId": "4"
+      }
+    ]
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Jackson",
+    "gender": "Female",
+    "dateOfBirth": "1983-04-26",
+    "mobile": "1805214208",
+    "joiningDate": "2023-06-02",
+    "qualification": "Master's Degree",
+    "experience": 2,
+    "email": "linda.jackson@example.com",
+    "username": "linda.jackson",
+    "password": "admin",
+    "role": "teacher",
+    "address": "632Street",
+    "city": "New York",
+    "state": "FL",
+    "zipCode": "60601",
+    "country": "UK",
+    "subjects": [
+      {
+        "subjectName": "Maths",
+        "classId": "2"
+      },
+      {
+        "subjectName": "Computer",
+        "classId": "1"
+      }
+    ]
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Hernandez",
+    "gender": "Female",
+    "dateOfBirth": "1967-07-28",
+    "mobile": "9227856915",
+    "joiningDate": "2013-07-25",
+    "qualification": "Master's Degree",
+    "experience": 1,
+    "email": "thomas.hernandez@example.com",
+    "username": "thomas.hernandez",
+    "password": "admin",
+    "role": "teacher",
+    "address": "744Street",
+    "city": "San Jose",
+    "state": "NY",
+    "zipCode": "77001",
+    "country": "France",
+    "subjects": [
+      {
+        "subjectName": "English",
+        "classId": "5"
+      },
+      {
+        "subjectName": "Maths",
+        "classId": "2"
+      }
+    ]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Davis",
+    "gender": "Male",
+    "dateOfBirth": "1956-07-10",
+    "mobile": "1108749016",
+    "joiningDate": "2024-01-28",
+    "qualification": "PhD",
+    "experience": 9,
+    "email": "james.davis@example.com",
+    "username": "james.davis",
+    "password": "admin",
+    "role": "teacher",
+    "address": "521Street",
+    "city": "San Jose",
+    "state": "MI",
+    "zipCode": "77001",
+    "country": "UK",
+    "subjects": [
+      {
+        "subjectName": "Nepali",
+        "classId": "2"
+      },
+      {
+        "subjectName": "Computer",
+        "classId": "2"
+      },
+      {
+        "subjectName": "English",
+        "classId": "1"
+      }
+    ]
+  }
+]

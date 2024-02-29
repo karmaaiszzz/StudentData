@@ -1,0 +1,280 @@
+[
+  {
+    "firstName": "William",
+    "lastName": "Lopez",
+    "gender": "Female",
+    "dateOfBirth": "1986-12-22",
+    "mobile": "9338528114",
+    "joiningDate": "2015-01-02",
+    "qualification": "Bachelor's Degree",
+    "experience": 7,
+    "email": "william.lopez@example.com",
+    "username": "william.lopez",
+    "password": "admin",
+    "role": "teacher",
+    "address": "795Street",
+    "city": "Houston",
+    "state": "TX",
+    "zipCode": "98101",
+    "country": "Brazil",
+    "subjects": [
+      {
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": "10"
+      },
+      {
+        "subjectName": "Social Studies",
+        "classId": "7"
+      }
+    ]
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Williams",
+    "gender": "Male",
+    "dateOfBirth": "1967-04-06",
+    "mobile": "8463249485",
+    "joiningDate": "2021-02-21",
+    "qualification": "Master's Degree",
+    "experience": 3,
+    "email": "sarah.williams@example.com",
+    "username": "sarah.williams",
+    "password": "admin",
+    "role": "teacher",
+    "address": "903Street",
+    "city": "San Diego",
+    "state": "IL",
+    "zipCode": "75201",
+    "country": "India",
+    "subjects": [
+      {
+        "subjectName": "Nepali",
+        "classId": "7"
+      }
+    ]
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Anderson",
+    "gender": "Male",
+    "dateOfBirth": "1958-10-14",
+    "mobile": "5003006136",
+    "joiningDate": "2013-07-17",
+    "qualification": "PhD",
+    "experience": 8,
+    "email": "susan.anderson@example.com",
+    "username": "susan.anderson",
+    "password": "admin",
+    "role": "teacher",
+    "address": "684Street",
+    "city": "Chicago",
+    "state": "MI",
+    "zipCode": "75201",
+    "country": "Brazil",
+    "subjects": [
+      {
+        "subjectName": "Mathematics",
+        "classId": "10"
+      }
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Garcia",
+    "gender": "Female",
+    "dateOfBirth": "1955-05-09",
+    "mobile": "7729023372",
+    "joiningDate": "2016-02-08",
+    "qualification": "PhD",
+    "experience": 15,
+    "email": "richard.garcia@example.com",
+    "username": "richard.garcia",
+    "password": "admin",
+    "role": "teacher",
+    "address": "90Street",
+    "city": "San Jose",
+    "state": "OH",
+    "zipCode": "95101",
+    "country": "UK",
+    "subjects": [
+      {
+        "subjectName": "Science",
+        "classId": "7"
+      },
+      {
+        "subjectName": "English",
+        "classId": "8"
+      },
+      {
+        "subjectName": "Mathematics",
+        "classId": "10"
+      }
+    ]
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Rodriguez",
+    "gender": "Male",
+    "dateOfBirth": "1983-01-21",
+    "mobile": "1659136693",
+    "joiningDate": "2016-09-10",
+    "qualification": "PhD",
+    "experience": 18,
+    "email": "joseph.rodriguez@example.com",
+    "username": "joseph.rodriguez",
+    "password": "admin",
+    "role": "teacher",
+    "address": "326Street",
+    "city": "San Jose",
+    "state": "NC",
+    "zipCode": "75201",
+    "country": "Japan",
+    "subjects": [
+      {
+        "subjectName": "Mathematics",
+        "classId": "9"
+      }
+    ]
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Miller",
+    "gender": "Female",
+    "dateOfBirth": "1956-04-04",
+    "mobile": "9516054783",
+    "joiningDate": "2020-01-06",
+    "qualification": "PhD",
+    "experience": 16,
+    "email": "joseph.miller@example.com",
+    "username": "joseph.miller",
+    "password": "admin",
+    "role": "teacher",
+    "address": "110Street",
+    "city": "Dallas",
+    "state": "FL",
+    "zipCode": "90001",
+    "country": "Germany",
+    "subjects": [
+      {
+        "subjectName": "Science",
+        "classId": "7"
+      },
+      {
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": "7"
+      }
+    ]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Thompson",
+    "gender": "Male",
+    "dateOfBirth": "2000-06-20",
+    "mobile": "9206145718",
+    "joiningDate": "2012-05-10",
+    "qualification": "PhD",
+    "experience": 2,
+    "email": "james.thompson@example.com",
+    "username": "james.thompson",
+    "password": "admin",
+    "role": "teacher",
+    "address": "776Street",
+    "city": "Chicago",
+    "state": "PA",
+    "zipCode": "95101",
+    "country": "Japan",
+    "subjects": [
+      {
+        "subjectName": "Science",
+        "classId": "9"
+      },
+      {
+        "subjectName": "Mathematics",
+        "classId": "6"
+      }
+    ]
+  },
+  {
+    "firstName": "Patricia",
+    "lastName": "Lopez",
+    "gender": "Male",
+    "dateOfBirth": "1971-03-01",
+    "mobile": "1145791254",
+    "joiningDate": "2017-01-30",
+    "qualification": "PhD",
+    "experience": 5,
+    "email": "patricia.lopez@example.com",
+    "username": "patricia.lopez",
+    "password": "admin",
+    "role": "teacher",
+    "address": "20Street",
+    "city": "San Jose",
+    "state": "TX",
+    "zipCode": "77001",
+    "country": "UK",
+    "subjects": [
+      {
+        "subjectName": "Social Studies",
+        "classId": "8"
+      }
+    ]
+  },
+  {
+    "firstName": "William",
+    "lastName": "Brown",
+    "gender": "Female",
+    "dateOfBirth": "1954-08-02",
+    "mobile": "8311943215",
+    "joiningDate": "2022-06-29",
+    "qualification": "PhD",
+    "experience": 18,
+    "email": "william.brown@example.com",
+    "username": "william.brown",
+    "password": "admin",
+    "role": "teacher",
+    "address": "41Street",
+    "city": "Philadelphia",
+    "state": "TX",
+    "zipCode": "77001",
+    "country": "USA",
+    "subjects": [
+      {
+        "subjectName": "English",
+        "classId": "9"
+      },
+      {
+        "subjectName": "Mathematics",
+        "classId": "10"
+      }
+    ]
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Jackson",
+    "gender": "Male",
+    "dateOfBirth": "1972-09-29",
+    "mobile": "8258245338",
+    "joiningDate": "2017-01-25",
+    "qualification": "Bachelor's Degree",
+    "experience": 1,
+    "email": "sarah.jackson@example.com",
+    "username": "sarah.jackson",
+    "password": "admin",
+    "role": "teacher",
+    "address": "562Street",
+    "city": "Los Angeles",
+    "state": "IL",
+    "zipCode": "19101",
+    "country": "Australia",
+    "subjects": [
+      {
+        "subjectName": "Computing",
+        "classId": "8"
+      },
+      {
+        "subjectName": "Computing",
+        "classId": "9"
+      }
+    ]
+  }
+]
