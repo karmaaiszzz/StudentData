@@ -1,7 +1,7 @@
 // Importing necessary libraries
 const fs = require("fs");
 
-// Array of student usernames
+// Array of student usernames for a specific class
 const usernames = [
   "emma.jones",
   "jordyn",
@@ -47,7 +47,7 @@ function generateAttendanceLogs() {
     for (
       let date = new Date(startDate);
       date <= endDate;
-      date.setDate(date.getDate() + Math.floor(Math.random() * 3)) // Randomly skip some days
+      date.setDate(date.getDate() + Math.floor(Math.random() * 3)) // Randomly skip some days to not get 100% present data all the time
     ) {
       if (Math.random() < 0.4) continue; // Skip 40% of the days
 

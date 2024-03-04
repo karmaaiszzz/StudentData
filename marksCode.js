@@ -1,15 +1,16 @@
 const fs = require("fs");
 
-// Array of studentIds for classId=1
+// Array of studentIds
 const studentIds = [245, 246, 247, 248];
 
 // Function to generate random marks for each subject
 function generateMarks() {
+  //Subjects for class 1-5
   const subjects = ["English", "Nepali", "Mathematics", "Science", "Computing"];
   const marks = [];
 
   studentIds.forEach((studentId) => {
-    const classId = 1; // Assuming all students are in the same class
+    const classId = 1;
     const academicYear = 2014;
 
     subjects.forEach((subject) => {

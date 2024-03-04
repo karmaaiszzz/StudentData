@@ -1,9 +1,9 @@
 const fs = require("fs");
 
-// Array of studentIds for classId=6
+// Array of studentIds
 const studentIds = [245, 246, 247, 248];
 
-// Subjects array
+// Subjects array for grade 6-10
 const subjects = [
   "English",
   "Nepali",

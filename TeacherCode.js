@@ -22,6 +22,7 @@ function randomQualification() {
 // Function to generate random teacher data
 function generateTeachers(numTeachers) {
   const teachers = [];
+  //Subejcts taught by the teachers
   const subjects = [
     "English",
     "Nepali",
