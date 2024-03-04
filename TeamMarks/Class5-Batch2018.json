@@ -1,0 +1,142 @@
+[
+    {
+        "student_id": 245,
+        "subjectName": "English",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 4
+    },
+    {
+        "student_id": 245,
+        "subjectName": "Nepali",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 13
+    },
+    {
+        "student_id": 245,
+        "subjectName": "Mathematics",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 39
+    },
+    {
+        "student_id": 245,
+        "subjectName": "Science",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 7
+    },
+    {
+        "student_id": 245,
+        "subjectName": "Computing",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 10
+    },
+    {
+        "student_id": 246,
+        "subjectName": "English",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 12
+    },
+    {
+        "student_id": 246,
+        "subjectName": "Nepali",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 67
+    },
+    {
+        "student_id": 246,
+        "subjectName": "Mathematics",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 58
+    },
+    {
+        "student_id": 246,
+        "subjectName": "Science",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 75
+    },
+    {
+        "student_id": 246,
+        "subjectName": "Computing",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 59
+    },
+    {
+        "student_id": 247,
+        "subjectName": "English",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 97
+    },
+    {
+        "student_id": 247,
+        "subjectName": "Nepali",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 63
+    },
+    {
+        "student_id": 247,
+        "subjectName": "Mathematics",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 20
+    },
+    {
+        "student_id": 247,
+        "subjectName": "Science",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 24
+    },
+    {
+        "student_id": 247,
+        "subjectName": "Computing",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 61
+    },
+    {
+        "student_id": 248,
+        "subjectName": "English",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 60
+    },
+    {
+        "student_id": 248,
+        "subjectName": "Nepali",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 87
+    },
+    {
+        "student_id": 248,
+        "subjectName": "Mathematics",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 22
+    },
+    {
+        "student_id": 248,
+        "subjectName": "Science",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 89
+    },
+    {
+        "student_id": 248,
+        "subjectName": "Computing",
+        "classId": 5,
+        "academicYear": 2018,
+        "marksObtained": 56
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "student_id": 245,
+        "subjectName": "English",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 84
+    },
+    {
+        "student_id": 245,
+        "subjectName": "Nepali",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 59
+    },
+    {
+        "student_id": 245,
+        "subjectName": "Mathematics",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 66
+    },
+    {
+        "student_id": 245,
+        "subjectName": "Science",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 83
+    },
+    {
+        "student_id": 245,
+        "subjectName": "Social Studies",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 80
+    },
+    {
+        "student_id": 245,
+        "subjectName": "Computing",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 45
+    },
+    {
+        "student_id": 245,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 37
+    },
+    {
+        "student_id": 246,
+        "subjectName": "English",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 65
+    },
+    {
+        "student_id": 246,
+        "subjectName": "Nepali",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 83
+    },
+    {
+        "student_id": 246,
+        "subjectName": "Mathematics",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 60
+    },
+    {
+        "student_id": 246,
+        "subjectName": "Science",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 66
+    },
+    {
+        "student_id": 246,
+        "subjectName": "Social Studies",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 41
+    },
+    {
+        "student_id": 246,
+        "subjectName": "Computing",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 89
+    },
+    {
+        "student_id": 246,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 43
+    },
+    {
+        "student_id": 247,
+        "subjectName": "English",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 87
+    },
+    {
+        "student_id": 247,
+        "subjectName": "Nepali",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 50
+    },
+    {
+        "student_id": 247,
+        "subjectName": "Mathematics",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 62
+    },
+    {
+        "student_id": 247,
+        "subjectName": "Science",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 67
+    },
+    {
+        "student_id": 247,
+        "subjectName": "Social Studies",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 65
+    },
+    {
+        "student_id": 247,
+        "subjectName": "Computing",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 94
+    },
+    {
+        "student_id": 247,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 36
+    },
+    {
+        "student_id": 248,
+        "subjectName": "English",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 52
+    },
+    {
+        "student_id": 248,
+        "subjectName": "Nepali",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 81
+    },
+    {
+        "student_id": 248,
+        "subjectName": "Mathematics",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 99
+    },
+    {
+        "student_id": 248,
+        "subjectName": "Science",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 55
+    },
+    {
+        "student_id": 248,
+        "subjectName": "Social Studies",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 61
+    },
+    {
+        "student_id": 248,
+        "subjectName": "Computing",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 65
+    },
+    {
+        "student_id": 248,
+        "subjectName": "Environment, Population and Health (EPH)",
+        "classId": 9,
+        "academicYear": 2022,
+        "marksObtained": 39
+    }
+]

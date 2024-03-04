@@ -1,10 +1,7 @@
 const fs = require("fs");
 
 // Array of studentIds for classId=6
-const studentIds = [
-  14, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 178, 179, 180, 181, 182, 183, 184,
-  185, 186, 187, 228, 238, 243,
-];
+const studentIds = [245, 246, 247, 248];
 
 // Subjects array
 const subjects = [
@@ -22,8 +19,8 @@ function generateMarks() {
   const marks = [];
 
   studentIds.forEach((studentId) => {
-    const classId = 6; // Assuming all students are in the same class
-    const academicYear = 2022;
+    const classId = 6;
+    const academicYear = 2019;
 
     subjects.forEach((subject) => {
       let marksObtained;
